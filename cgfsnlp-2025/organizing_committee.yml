@@ -1,0 +1,13 @@
+- members:
+  - first_name: Trond
+    institution: UiT The Arctic University of Norway
+    last_name: Trosterud
+  role: General Chair
+- members:
+  - first_name: Linda
+    institution: UiT The Arctic University of Norway
+    last_name: Wiechetek
+  - first_name: Flammie
+    institution: UiT The Arctic University of Norway
+    last_name: Wiechetec
+  role: Program Chairs

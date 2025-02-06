@@ -1,0 +1,366 @@
+- abstract: This paper presents and evaluates a new  multi-genre error corpus for
+    (written) Esperanto, EspEraro, building on both learner, news and internet data
+    and covering both ordinary spelling errors and real-word errors such as grammatical
+    and word choice errors. Because the corpus has been annotated not only for errors,
+    error types and corrections, but also with Constraint Grammar (CG) tags for part-of-speech,
+    inflection, affixation, syntactic function, dependency and semantic class, it
+    allows users to linguistically contextualize errors and to craft and test CG rules
+    aiming at the recognition and/or correction of the various error types covered
+    in the corpus. The resource was originally created for regression-testing a newly
+    developed spell- and grammar checker, and contains about 75,000 tokens (~ 4,000
+    sentences), with 3,330 tokens annotated for one or more errors and a combined
+    correction suggestion. We discuss the different error types and evaluate their
+    weight in the corpus. Where relevant, we explain the role of Constraint Grammar
+    (CG) in the identification and correction of the individual error types.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/33/609
+    emails: eckhard.bick@mail.dk
+    first_name: Eckhard
+    institution: University of Southern Denmark - SDU
+    last_name: Bick
+    name: Eckhard Bick
+    orcid: https://orcid.org/0000-0002-5505-4861
+    username: ~Eckhard_Bick1
+  decision: Oral
+  file: 1.pdf
+  id: 1
+  openreview_id: JMednWGBIN
+  pdf_file: d6dc8f61f9dd7c055df1aee2aa8ea2fb133d3ea5.pdf
+  title: An Annotated Error Corpus for Esperanto
+- abstract: 'Due to its reliance on context and intricate
+
+    grammatical rules, the Romanian weak
+
+    pronoun system presents a challenge not
+
+    only for language learners – both native
+
+    and non-native speakers – but also for linguistic
+
+    description and computational processing.
+
+
+    The present work addresses the challenges
+
+    of Romanian weak pronouns from a computational
+
+    processing perspective. Accordingly,
+
+    it has three main goals: (1) to
+
+    present the implementation of a rule-based
+
+    model for generating contextually accurate
+
+    surface forms of Romanian weak pronouns,
+
+    (2) to describe the compilation of a
+
+    database of relevant inputs for testing surface
+
+    realization, and (3) to test the effectiveness
+
+    of the model.
+
+
+    This serves as a proof of concept, demonstrating
+
+    both the transparency and the effectiveness
+
+    of the model when based on an
+
+    appropriate linguistic description.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/04/4284
+    emails: ciprian.gerstenberger@gmail.com
+    first_name: Ciprian
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=F-jixSoAAAAJ
+    homepage: https://ehealthresearch.no/en/ciprian-gerstenberger
+    institution: University of Tromsø
+    last_name: Gerstenberger
+    name: Ciprian Gerstenberger
+    orcid: https://orcid.org/0000-0001-8965-0808
+    username: ~Ciprian_Gerstenberger1
+  decision: Oral
+  file: 2.pdf
+  id: 2
+  openreview_id: eGlIXPgSUR
+  pdf_file: 78e20a4a9183c58516f7ed1bf074cb0d42d494a7.pdf
+  title: Rule-based Surface Realization of Romanian Weak Pronouns
+- abstract: 'This paper presents the application of rule-based methods for
+
+    Grammatical Error Correction (GEC) across multiple low-resource
+
+    languages. We describe new functionality using the Constraint Grammar
+
+    (CG) formalism, designed for detecting and correcting different types
+
+    of complex grammatical errors in a range of morphologically complex
+
+    languages. These errors require transformations such as reordering,
+
+    word additions/deletions, and alternative choices for multiword
+
+    suggestions. New perspectives are gained from end-to-end-testing –
+
+    this work aims to clarify the relationship between the command-line
+
+    interface used by developers and the user interfaces of our grammar
+
+    checker plug-in for common word processors. We discuss challenges and
+
+    solutions in correcting complex errors, with examples from languages
+
+    like Lule Sámi, Irish, and Greenlandic, enabling linguists to adapt
+
+    these methods in order to provide accurate and context-aware proofing
+
+    tools for their own languages in mainstream word processors like
+
+    Microsoft Word, Google Docs or LibreOffice.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: linda.wiechetek@uit.no
+    first_name: Linda
+    homepage: https://divvun.no/
+    institution: University of Tromsø
+    last_name: Wiechetek
+    name: Linda Wiechetek
+    username: ~Linda_Wiechetek1
+  - emails: kevin@trigram.no
+    first_name: Kevin
+    homepage: https://unhammer.org/k
+    institution: Trigram
+    last_name: Unhammer
+    middle_name: Brubeck
+    name: Kevin Brubeck Unhammer
+    username: ~Kevin_Brubeck_Unhammer1
+  decision: Oral
+  file: 3.pdf
+  id: 3
+  openreview_id: Ya31BJagVx
+  pdf_file: 723324b85c5f53fe6743232eea5d909ac3e95562.pdf
+  title: Drawing Blue Lines - What can Constraint Grammar do for GEC?
+- abstract: This paper presents a general-purpose parser for static analysis of Constraint
+    Grammar rules (that is, examining only the rules, not potential inputs and outputs)
+    and applies it to the task of translating rules into comprehensible explanations
+    of behavior. An interactive interface for exploring how individual components
+    of each rule contribute to these translations is also presented.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: dangswan@iu.edu
+    first_name: Daniel
+    institution: Indiana University
+    last_name: Swanson
+    middle_name: Glen
+    name: Daniel Glen Swanson
+    orcid: https://orcid.org/0000-0002-9847-8111
+    username: ~Daniel_Glen_Swanson1
+  decision: Oral
+  file: 4.pdf
+  id: 4
+  openreview_id: 5IXoQ5ZIeg
+  pdf_file: a980159781af523ec1a99f17b31c832b63fbae4d.pdf
+  title: Towards Natural Language Explanations of Constraint Grammar Rules
+- abstract: The article presents a finite state transducer and spellchecker for Mansi,
+    an Ob-Ugric Uralic language spoken in northwestern Siberia. Mansi has a rich but
+    mostly agglutinative morphology, with a morphophonology dominated by sandhi phenomena.
+    With a small set of morphophonological rules (32 twolc rules) and a lexicon consisting
+    of 12,000 Mansi entries and a larger set of propernouns we were able to build
+    a transducer covering 98.9 % of a large (700k) newspaper corpus. Being a part
+    of the GiellaLT infrastructure, the transducer was turned into a spellchecker.
+    The most common spelling error in Mansi is the omission of length marks on vowels,
+    and for the 1000 most common words containing long vowels, the spellchecker was
+    able to give a correct suggestion as top-five in 98.3 % of the cases, and as first
+    suggestion in 91.3 % of the cases.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: jack.rueter@helsinki.fi
+    first_name: Jack
+    google_scholar_id: https://scholar.google.fi/citations?user=uKxNH-QAAAAJ&hl=fi
+    homepage: https://researchportal.helsinki.fi/en/persons/jack-rueter
+    institution: University of Helsinki
+    last_name: Rueter
+    name: Jack Rueter
+    orcid: https://orcid.org/0000-0002-3076-7929
+    username: ~Jack_Rueter1
+  - emails: csilla.horvath@helsinki.fi
+    first_name: Csilla
+    last_name: Horváth
+    name: Csilla Horváth
+    orcid: https://orcid.org/0000-0002-3647-4430
+    username: ~Csilla_Horváth1
+  - emails: trond.trosterud@uit.no
+    first_name: Trond
+    homepage: https://en.uit.no/ansatte/person?p_document_id=41545
+    institution: University of Tromsø
+    last_name: Trosterud
+    name: Trond Trosterud
+    username: ~Trond_Trosterud1
+  decision: Oral
+  file: 5.pdf
+  id: 5
+  openreview_id: oRxPcIshVX
+  pdf_file: 9382f8db7c7cc4fcd9c3659b802a87f22c62e156.pdf
+  title: A Mansi FST and spellchecker
+- abstract: This article will present a grammatical aunalyser, disambiguator and dependency
+    analysis of Tokelau. The grammatical analyser is written as a finite-state transducer
+    (FST), whereas the disambiguator and dependency analyser are written in Constraint
+    Grammar (CG), both within the GiellaLT infrastructure. Contrary to most languages
+    analyzed within this framework, Being a Polynesian language, Tokelau is a predominantly
+    isolating language, with reduplication and affixation as the main morphological
+    processes. The article will discuss how FST and CG deal with Polynesian languages.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: trond.trosterud@uit.no
+    first_name: Trond
+    homepage: https://en.uit.no/ansatte/person?p_document_id=41545
+    institution: University of Tromsø
+    last_name: Trosterud
+    name: Trond Trosterud
+    username: ~Trond_Trosterud1
+  - emails: arnfinn.vonen@oslomet.no
+    first_name: Arnfinn
+    homepage: https://www.oslomet.no/en/about/employee/arnvon/
+    institution: Oslo Metropolitan University
+    last_name: Vonen
+    middle_name: Muruvik
+    name: Arnfinn Muruvik Vonen
+    username: ~Arnfinn_Muruvik_Vonen1
+  decision: Oral
+  file: 6.pdf
+  id: 6
+  openreview_id: e1CXLd1sVC
+  pdf_file: 0d7e1f5f56328edbff43718fb6bc60a4c4bfcef3.pdf
+  title: A grammatical analyser for Tokelau
+- abstract: We investigate whether synthetic pretraining data generated from a formal
+    grammar modeling syntactic dependencies can improve English language models. Building
+    upon the structured pretraining data approach of Papadimitriou and Jurafsky (2023),
+    we develop a grammar that more closely mirrors empirical dependency structures.
+    Our results are negative – this type of pretraining significantly degrades model
+    performance, with both our and their pretraining approach performing worse than
+    no pretraining at all. We analyze potential explanations for these findings and
+    discuss implications for future work on structured-data pretraining.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/357/1109.html
+    emails: olle.torstensson@liu.se
+    first_name: Olle
+    homepage: https://liu.se/medarbetare/ollto72
+    institution: Linköping University
+    last_name: Torstensson
+    name: Olle Torstensson
+    orcid: https://orcid.org/0000-0001-7117-5594
+    username: ~Olle_Torstensson1
+  - emails: oskar.holmstrom@liu.se
+    first_name: Oskar
+    homepage: https://liu.se/en/employee/oskho10
+    last_name: Holmström
+    name: Oskar Holmström
+    username: ~Oskar_Holmström1
+  decision: Oral
+  file: 7.pdf
+  id: 7
+  openreview_id: kFETFBsFP9
+  pdf_file: f39b8af5b506af266076da33d1644ff1e7a7d5b6.pdf
+  title: A Grammar-Based Method for Instilling Empirical Dependency Structure in LLMs
+- abstract: 'This paper contains preliminary findings
+
+    using Constraint Grammar (CG) in seman-
+
+    tic annotation in a specific type of noun
+
+    phrases in Greenlandic, in which the at-
+
+    tributive noun is a nominalized predica-
+
+    tive verbal stem. The annotation is used
+
+    in a grammar checker pipeline for the pur-
+
+    pose of making case error correction sug-
+
+    gestions.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: judithe@oqaasileriffik.gl
+    first_name: Judithe
+    homepage: https://oqaasileriffik.gl/en/language-secretariat/staff/
+    institution: Oqaasileriffik
+    last_name: Denbæk
+    name: Judithe Denbæk
+    username: ~Judithe_Denbæk1
+  decision: Oral
+  file: 8.pdf
+  id: 8
+  openreview_id: UrcEwuCKPk
+  pdf_file: 07e21344893319d42540878749407bac4fa9f84d.pdf
+  title: Case error corrections for noun phrases containing deverbal attributive nouns
+    in Greenlandic
+- abstract: "Spell-checking and correction is one of the key applications of natural\
+    \ language support.  \n    Historically, for the biggest, less morphologically\
+    \ complex languages, spell-checking and correction could be implemented by relatively\
+    \ simple means; however, for morphologically complex and low-resource languages,\
+    \ the solutions were often suboptimal.\n    Finite-state methods are the state\
+    \ of the art in rule-based natural language processing and also for spell-checking\
+    \ and correction they have been effectively used.\n    In this article, we show\
+    \ some recent developments of a finite-state spell-checker implementation that\
+    \ works with modern operating systems and platforms."
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - dblp_id: https://dblp.org/pid/30/8936
+    emails: flammie.pirinen@uit.no
+    first_name: Flammie
+    google_scholar_id: https://scholar.google.de/citations?user=XNOLAagAAAAJ&hl=fi
+    homepage: https://flammie.github.io
+    institution: Norgga árktalaš universitehta
+    last_name: Pirinen
+    middle_name: A
+    name: Flammie A Pirinen
+    orcid: https://orcid.org/0000-0003-1207-5395
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tommi-A.-Pirinen/1823491
+    username: ~Flammie_A_Pirinen1
+  - emails: sjur.n.moshagen@uit.no
+    first_name: Sjur
+    homepage: https://en.uit.no/ansatte/person?p_document_id=248638
+    institution: University of Tromsø
+    last_name: Moshagen
+    middle_name: Nørstebø
+    name: Sjur Nørstebø Moshagen
+    orcid: https://orcid.org/0000-0003-3771-9521
+    username: ~Sjur_Nørstebø_Moshagen1
+  decision: Oral
+  file: 9.pdf
+  id: 9
+  openreview_id: xzF06YNPkV
+  pdf_file: 307009b9e192ad1c29d5926a078bce75a3e16fcc.pdf
+  title: Divvunspell---Finite-State Spell-Checking and Correction on Modern Platforms

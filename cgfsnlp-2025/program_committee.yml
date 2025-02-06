@@ -1,0 +1,178 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/33/609
+    emails: eckhard.bick@mail.dk
+    first_name: Eckhard
+    institution: University of Southern Denmark - SDU
+    last_name: Bick
+    name: Eckhard Bick
+    orcid: https://orcid.org/0000-0002-5505-4861
+    username: ~Eckhard_Bick1
+  - dblp_id: https://dblp.org/pid/186/0139
+    emails: mail@tinodidriksen.com
+    first_name: Tino
+    google_scholar_id: https://scholar.google.com/citations?user=q17GH1sAAAAJ
+    homepage: https://tinodidriksen.com/
+    institution: University of Southern Denmark - SDU
+    last_name: Didriksen
+    name: Tino Didriksen
+    orcid: https://orcid.org/0000-0002-1054-2239
+    semantic_scholar_id: https://www.semanticscholar.org/author/3460523
+    username: ~Tino_Didriksen1
+  - emails: kaili.muurisep@gmail.com
+    first_name: Kaili
+    google_scholar_id: https://scholar.google.com/citations?user=BSsD0vgAAAAJ&hl=en
+    institution: institute of computer science, University of Tartu
+    last_name: Müürisep
+    name: Kaili Müürisep
+    username: ~Kaili_Müürisep1
+  - dblp_id: https://dblp.org/pid/30/8936
+    emails: flammie.pirinen@uit.no
+    first_name: Flammie
+    google_scholar_id: https://scholar.google.de/citations?user=XNOLAagAAAAJ&hl=fi
+    homepage: https://flammie.github.io
+    institution: Norgga árktalaš universitehta
+    last_name: Pirinen
+    middle_name: A
+    name: Flammie A Pirinen
+    orcid: https://orcid.org/0000-0003-1207-5395
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tommi-A.-Pirinen/1823491
+    username: ~Flammie_A_Pirinen1
+  - emails: dangswan@iu.edu
+    first_name: Daniel
+    institution: Indiana University
+    last_name: Swanson
+    middle_name: Glen
+    name: Daniel Glen Swanson
+    orcid: https://orcid.org/0000-0002-9847-8111
+    username: ~Daniel_Glen_Swanson1
+  - emails: trond.trosterud@uit.no
+    first_name: Trond
+    homepage: https://en.uit.no/ansatte/person?p_document_id=41545
+    institution: University of Tromsø
+    last_name: Trosterud
+    name: Trond Trosterud
+    username: ~Trond_Trosterud1
+  - dblp_id: https://dblp.org/pid/84/8340
+    emails: ftyers@prompsit.com
+    first_name: Francis
+    google_scholar_id: https://scholar.google.com/citations?user=o5HSM6cAAAAJ&hl=ca&oi=ao
+    homepage: http://xixona.dlsi.ua.es/~fran/
+    institution: Indiana University, Bloomington
+    last_name: Tyers
+    middle_name: M.
+    name: Francis M. Tyers
+    orcid: https://orcid.org/0000-0001-6108-2220
+    username: ~Francis_M._Tyers1
+  - emails: linda.wiechetek@uit.no
+    first_name: Linda
+    homepage: https://divvun.no/
+    institution: University of Tromsø
+    last_name: Wiechetek
+    name: Linda Wiechetek
+    username: ~Linda_Wiechetek1
+  role: Program Chairs
+- entries:
+  - dblp_id: https://dblp.org/pid/33/609
+    emails: eckhard.bick@mail.dk
+    first_name: Eckhard
+    institution: University of Southern Denmark - SDU
+    last_name: Bick
+    name: Eckhard Bick
+    orcid: https://orcid.org/0000-0002-5505-4861
+    username: ~Eckhard_Bick1
+  - dblp_id: https://dblp.org/pid/186/0139
+    emails: mail@tinodidriksen.com
+    first_name: Tino
+    google_scholar_id: https://scholar.google.com/citations?user=q17GH1sAAAAJ
+    homepage: https://tinodidriksen.com/
+    institution: University of Southern Denmark - SDU
+    last_name: Didriksen
+    name: Tino Didriksen
+    orcid: https://orcid.org/0000-0002-1054-2239
+    semantic_scholar_id: https://www.semanticscholar.org/author/3460523
+    username: ~Tino_Didriksen1
+  - dblp_id: https://dblp.org/pid/17/6905
+    emails: koskenni@gmail.com
+    first_name: Kimmo
+    homepage: https://researchportal.helsinki.fi/fi/persons/kimmo-koskenniemi
+    institution: University of Helsinki
+    last_name: Koskenniemi
+    name: Kimmo Koskenniemi
+    orcid: https://orcid.org/0000-0002-0061-9714
+    username: ~Kimmo_Koskenniemi1
+  - emails: inari@chalmers.se
+    first_name: Inari
+    homepage: https://inariksit.github.io/
+    institution: Chalmers University of Technology
+    last_name: Listenmaa
+    name: Inari Listenmaa
+    orcid: https://orcid.org/0000-0001-5555-0251
+    username: ~Inari_Listenmaa1
+  - emails: kaili.muurisep@gmail.com
+    first_name: Kaili
+    google_scholar_id: https://scholar.google.com/citations?user=BSsD0vgAAAAJ&hl=en
+    institution: institute of computer science, University of Tartu
+    last_name: Müürisep
+    name: Kaili Müürisep
+    username: ~Kaili_Müürisep1
+  - emails: marja-liisa.olthuis@oulu.fi
+    first_name: Marja-Liisa
+    homepage: http://www.oulu.fi
+    last_name: Olthuis
+    name: Marja-Liisa Olthuis
+    username: ~Marja-Liisa_Olthuis1
+  - dblp_id: https://dblp.org/pid/30/8936
+    emails: flammie.pirinen@uit.no
+    first_name: Flammie
+    google_scholar_id: https://scholar.google.de/citations?user=XNOLAagAAAAJ&hl=fi
+    homepage: https://flammie.github.io
+    institution: Norgga árktalaš universitehta
+    last_name: Pirinen
+    middle_name: A
+    name: Flammie A Pirinen
+    orcid: https://orcid.org/0000-0003-1207-5395
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tommi-A.-Pirinen/1823491
+    username: ~Flammie_A_Pirinen1
+  - emails: dangswan@iu.edu
+    first_name: Daniel
+    institution: Indiana University
+    last_name: Swanson
+    middle_name: Glen
+    name: Daniel Glen Swanson
+    orcid: https://orcid.org/0000-0002-9847-8111
+    username: ~Daniel_Glen_Swanson1
+  - emails: trond.trosterud@uit.no
+    first_name: Trond
+    homepage: https://en.uit.no/ansatte/person?p_document_id=41545
+    institution: University of Tromsø
+    last_name: Trosterud
+    name: Trond Trosterud
+    username: ~Trond_Trosterud1
+  - dblp_id: https://dblp.org/pid/84/8340
+    emails: ftyers@prompsit.com
+    first_name: Francis
+    google_scholar_id: https://scholar.google.com/citations?user=o5HSM6cAAAAJ&hl=ca&oi=ao
+    homepage: http://xixona.dlsi.ua.es/~fran/
+    institution: Indiana University, Bloomington
+    last_name: Tyers
+    middle_name: M.
+    name: Francis M. Tyers
+    orcid: https://orcid.org/0000-0001-6108-2220
+    username: ~Francis_M._Tyers1
+  - emails: kevin@trigram.no
+    first_name: Kevin
+    homepage: https://unhammer.org/k
+    institution: Trigram
+    last_name: Unhammer
+    middle_name: Brubeck
+    name: Kevin Brubeck Unhammer
+    username: ~Kevin_Brubeck_Unhammer1
+  - emails: linda.wiechetek@uit.no
+    first_name: Linda
+    homepage: https://divvun.no/
+    institution: University of Tromsø
+    last_name: Wiechetek
+    name: Linda Wiechetek
+    username: ~Linda_Wiechetek1
+  role: Reviewers
+  type: name_block
