@@ -2,7 +2,7 @@ book_title: Proceedings of the 9th Workshop on Constraint Grammar and Finite Sta
 event_name: The 9th Workshop on Constraint Grammar and Finite State NLP – Rule-based and hybrid methods and tools for user communities
 volume_name: workshop
 cover_subtitle: Proceedings of the Workshop
-anthology_venue_id: nodalida
+anthology_venue_id: 
 start_date: 2025-03-05
 end_date: 2025-03-05
 isbn: 978-9908-53-113-7
@@ -14,6 +14,6 @@ editors:
     last_name: Wiechetek
   - first_name: Flammie
     last_name: Pirinen
-publisher: University of Tartu Library, Estonia \\ Nealt Proceedings Series
-volume_name: 57
+publisher: University of Tartu Library, Estonia
+volume_name: 
 #watermark_book_title: Proceedings of the 9th Workshop on Constraint Grammar and Finite State NLP
